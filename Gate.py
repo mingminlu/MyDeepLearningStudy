@@ -1,6 +1,5 @@
 import numpy as np
 
-
 def and_gate(x1, x2):
     x = np.array([x1, x2])
     w = np.array([0.7, 0.5])
